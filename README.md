@@ -18,6 +18,14 @@ Através de uma imersão intensiva e gratuita, os participantes têm a oportunid
 capacita-brasil-desafios/
 ├── desafio-01/
 │   └── index.html
+├── desafio-02/
+│   └── index.html
+│   └── sobre.html
+│   └── pontosTuristicos.html
+│   └── culinaria.html
+│   └── style.css
+│   └── img/
+│   └── README.MD 
 └── README.md
 ```
 
